@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/the-time-in-words/
+
 function timeInWords(h, m) {
 	let arrH = [
 		'one',
